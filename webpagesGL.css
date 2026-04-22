@@ -10,15 +10,13 @@ p {
     font-family: Times;
     font-size: 16px;
     color: #DECAFF;
-
-
 }
 
 .table-border {
-    property: 1px solid #DECAFF;
+    border: 1px solid #DECAFF;
 }
 
 #photo-resize {
     max-width: 250px;
-    max-heigh: 300px;
+    max-height: 300px;
 }
