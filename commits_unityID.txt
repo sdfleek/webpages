@@ -1,0 +1,35 @@
+commit ce9139d2472c4981a8dad374c74a20dc57248bc9
+Author: Samuel Fleek <sdfleek@ncsu.edu>
+Date:   Thu Apr 23 20:22:35 2026 -0400
+
+    Comments Try pt 2
+
+commit 391c6e1677262d6ecae5c4aae12a48739fbf7190
+Author: Samuel Fleek <sdfleek@ncsu.edu>
+Date:   Thu Apr 23 13:49:43 2026 -0400
+
+    Will the comments apply?
+
+commit 8615ba408276471b5d0fe753a2bf0216d7c4a84f
+Author: Samuel Fleek <sdfleek@ncsu.edu>
+Date:   Wed Apr 22 14:21:47 2026 -0400
+
+    try 2
+
+commit eb1c3e6242d4830f1ce6d6d74a09cb2f3c92e98b
+Author: Samuel Fleek <sdfleek@ncsu.edu>
+Date:   Wed Apr 22 14:16:39 2026 -0400
+
+    updates to my webpage and stylesheet
+
+commit 89b0ff40bc17ab09a815b10ee76607d7f20a2671
+Author: Samuel Fleek <sdfleek@ncsu.edu>
+Date:   Wed Apr 22 13:40:49 2026 -0400
+
+    Message
+
+commit f9aae885c6c4a85476551d54f89f4fee7347d256
+Author: sdfleek <sdfleek@ncsu.edu>
+Date:   Mon Apr 20 22:20:04 2026 -0400
+
+    Initial commit
